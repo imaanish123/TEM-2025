@@ -94,7 +94,7 @@ const guideline = () => {
                       the final publications.
                     </li>
                     <li>
-                      Reporting the issue to the concerned author's
+                      Reporting the issue to the concerned author&apos;s
                       supervisor(s) and affiliated institution(s).
                     </li>
                     <li>
@@ -102,9 +102,9 @@ const guideline = () => {
                       research funding agency.
                     </li>
                     <li>
-                      A right to mention the author's name(s), the title of the
-                      article, the name(s) of the affiliated institution, and
-                      the details of misconduct, etc., of the plagiarist.
+                      A right to mention the author&apos;s name(s), the title of
+                      the article, the name(s) of the affiliated institution,
+                      and the details of misconduct, etc., of the plagiarist.
                     </li>
                   </ul>
                 </div>
