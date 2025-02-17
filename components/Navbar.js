@@ -34,12 +34,10 @@ const Navbar = () => {
             About
           </span>
         </Link>
-        <Link href="/Committee">
+        <Link href="/tuned">
           <span
             className={`${
-              router.pathname == "/Committee"
-                ? " text-orange-400"
-                : "text-white"
+              router.pathname == "/tuned" ? " text-orange-400" : "text-white"
             }  cursor-pointer w-32 px-4 text-center py-2 hover:font-bold border-b-2 border-black hover:border-b-2 hover:text-orange-400 hover:border-orange-400`}
           >
             Committee
