@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <div id="main" className="relative ">
       <Head>
-        <title>MAC2025 Homepage</title>
-        <meta name="description" content="MAC-2024" />
+        <title>TEM2025 Homepage</title>
+        <meta name="description" content="TEM-2025" />
         <link rel="icon" href="/icon2.png" />
       </Head>
       {/* <CenteredBlockPage/> */}
