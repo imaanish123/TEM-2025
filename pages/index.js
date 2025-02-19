@@ -11,7 +11,7 @@ export default function Home() {
       <Head>
         <title>TEM2025 Homepage</title>
         <meta name="description" content="TEM-2025" />
-        <link rel="icon" href="/icon2.png" />
+        <link rel="icon" href="/logo2.png" />
       </Head>
       {/* <CenteredBlockPage/> */}
       <HomeMain />

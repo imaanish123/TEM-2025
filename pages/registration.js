@@ -157,8 +157,7 @@ const Registration = () => {
         <p>
           To proceed with registration, please{" "}
           <a
-            href="https://iser.org.in/conf/abstract.php?id=2781921"
-            target="_blank"
+            href="#"
             rel="noopener noreferrer"
             className="text-blue-500 font-semibold"
           >
@@ -172,8 +171,7 @@ const Registration = () => {
           If you require an invitation letter for VISA application purposes,
           please{" "}
           <a
-            href="https://forms.gle/6C3KGNVBqxREtFUt5"
-            target="_blank"
+            href="#"
             rel="noopener noreferrer"
             className="text-blue-500 font-semibold"
           >

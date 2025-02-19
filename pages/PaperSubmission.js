@@ -25,12 +25,7 @@ const guideline = () => {
                   </h1>
                   <p className="px-6 md:px-0 md:mb-8 leading-relaxed md:font-semibold md:text-lg text-justify">
                     Kindly submit papers at the{" "}
-                    <a
-                      href="https://iser.org.in/conf/abstract.php?id=2781921"
-                      className="text-blue-500"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
+                    <a href="#" className="text-blue-500">
                       Paper Submission
                     </a>{" "}
                     link on the website. <br />
