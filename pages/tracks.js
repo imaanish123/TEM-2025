@@ -59,15 +59,15 @@ const Tracks = () => {
 
         <div className="flex justify-center">
           <a
-            href="/CFP_TEM2025.pdf"
-            download={true}
+            href="#"
+            // download={true}
             className="block w-[20%] text-white bg-orange-400 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 font-medium rounded-full text-[10px] sm:text-sm px-4 py-2 text-center mb-1 sm:mb-10"
           >
             Download CFP
           </a>
         </div>
       </div>
-      <SponsorFix />
+      {/* <SponsorFix /> */}
     </main>
   );
 };

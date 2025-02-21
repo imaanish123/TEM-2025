@@ -198,7 +198,7 @@ const Dates = () => {
 
 </div>
 */}
-      <SponsorFix />
+      {/* <SponsorFix /> */}
     </div>
   );
 };

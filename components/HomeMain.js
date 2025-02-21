@@ -157,7 +157,7 @@ const HomeMain = () => {
                 Welcome to the 3rd International conference of Trauma and
                 emergency medicine 2025!
                 <br />
-                We are looking forward to welcoming you to our.third conference
+                We are looking forward to welcoming you to our third conference
                 in which we will gather to share practice, knowledge, and wisdom
                 related to trauma and emergency medicine.
                 <br />

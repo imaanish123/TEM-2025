@@ -110,7 +110,7 @@ const guideline = () => {
             </section>
           </main>
         </div>
-        <SponsorFix />
+        {/* <SponsorFix /> */}
       </div>
     </main>
   );
