@@ -22,7 +22,7 @@ export default function HomeImageGallery() {
         modules={[Autoplay]}
         className="mySwiper bg-stone-500 text-center w-full h-[60vh] md:h-full"
       >
-        <SwiperSlide>
+         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
               initial={{ scale: 1 }}
@@ -33,7 +33,23 @@ export default function HomeImageGallery() {
                 repeatType: "reverse",
                 ease: "linear",
               }}
-              src="/thailand1.jpg"
+              src="/kerala4.jpg"
+              className="w-full h-full brightness-75  object-cover"
+            />
+          </div>
+        </SwiperSlide>
+         <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <motion.img
+              initial={{ scale: 1 }}
+              animate={{ scale: 1.4 }}
+              transition={{
+                duration: 20,
+                repeat: Infinity,
+                repeatType: "reverse",
+                ease: "linear",
+              }}
+              src="/kerala1.jpg"
               className="w-full h-full brightness-75  object-cover"
             />
           </div>
@@ -49,12 +65,12 @@ export default function HomeImageGallery() {
                 repeatType: "reverse",
                 ease: "linear",
               }}
-              src="/pic3.jpeg"
+              src="/kerala3.jpg"
               className="w-full h-full brightness-75  object-cover"
             />
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        {/* <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
               initial={{ scale: 1 }}
@@ -65,11 +81,27 @@ export default function HomeImageGallery() {
                 repeatType: "reverse",
                 ease: "linear",
               }}
-              src="/thailand2.jpg"
+              src="/kerala1.jpeg"
               className="w-full h-full brightness-75  object-cover"
             />
           </div>
-        </SwiperSlide>
+        </SwiperSlide> */}
+        {/* <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <motion.img
+              initial={{ scale: 1 }}
+              animate={{ scale: 1.4 }}
+              transition={{
+                duration: 20,
+                repeat: Infinity,
+                repeatType: "reverse",
+                ease: "linear",
+              }}
+              src="/kerala2.jpg"
+              className="w-full h-full brightness-75  object-cover"
+            />
+          </div>
+        </SwiperSlide> */}
       </Swiper>
     </>
   );

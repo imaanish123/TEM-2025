@@ -17,7 +17,7 @@ const Navbar = () => {
         <div className=" flex flex-start">
           <Link href="/">
             <p className=" cursor-pointer font-extrabold">
-              <span className="text-orange-400">TEM</span>
+              <span className="text-orange-400">ETACM</span>
               <span className="text-white">2025</span>
             </p>
           </Link>
@@ -188,7 +188,7 @@ const Navbar = () => {
             </ul>
           </div>
         </span>
-        =
+        
         <Link href="/registration">
           <span
             className={`${
