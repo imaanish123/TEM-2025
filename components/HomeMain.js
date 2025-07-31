@@ -157,8 +157,8 @@ const HomeMain = () => {
                 Welcome to the 4th International conference of Emergency Trauma
                 and Acute Care medicine 2025!
                 <br />
-                The 4th International conference on "Emergency Trauma and Acute
-                Care Medicine" will serve as a platform for healthcare
+                The 4th International conference on Emergency Trauma and Acute
+                Care Medicine will serve as a platform for healthcare
                 professionals, trauma surgeons, emergency physicians, and
                 researchers to discuss advancements, challanges, and innovations
                 in the critical field of acute care. As emergency and trauma
@@ -217,8 +217,8 @@ const HomeMain = () => {
                 <span className="pr-6">Call For Papers</span>
               </h1>
               <h2 className="text-orange-600 font-bold text-xl mb-6">
-                4th International conference on "Emergency Trauma and Acute Care
-                Medicine"
+                4th International conference on Emergency Trauma and Acute Care
+                Medicine
               </h2>
 
               <div className="my-8 leading-relaxed">
