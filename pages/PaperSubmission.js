@@ -31,10 +31,10 @@ const guideline = () => {
                     link on the website. <br />
                     If you have any queries, please reach us at{" "}
                     <a
-                      href="mailto:ic25tem2025@gmail.com"
+                      href="mailto:icetacm@gmail.com"
                       className="text-blue-500"
                     >
-                      ic25tem2025@gmail.com
+                      icetacm@gmail.com
                     </a>
                   </p>
                   <h1 className="title-font sm:text-4xl text-3xl mb-4 mt-8 md:mt-2 font-medium text-gray-900 block">

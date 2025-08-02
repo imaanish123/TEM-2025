@@ -27,7 +27,7 @@ const Dates = () => {
                     Abstracts/Full-Text Paper Submission Deadline
                   </td>
                   <td class="text-center px-4 py-2 border border-black w-4/12">
-                    February 10, 2025
+                    August 01, 2025
                   </td>
                 </tr>
                 <tr>
@@ -38,7 +38,7 @@ const Dates = () => {
                     Notification of Acceptance/Rejection
                   </td>
                   <td class="text-center px-4 py-2 border border-black w-4/12">
-                    February 28, 2025
+                    August 7, 2025
                   </td>
                 </tr>
                 <tr>
@@ -50,7 +50,7 @@ const Dates = () => {
                     Registration Deadline
                   </td>
                   <td class="text-center px-4 py-2 border border-black w-4/12">
-                    March 10, 2025
+                    August 11, 2025
                   </td>
                 </tr>
                 <tr>
@@ -61,7 +61,7 @@ const Dates = () => {
                     Conference Dates
                   </td>
                   <td class="text-center px-4 py-2 border border-black w-4/12">
-                    March 21-24, 2025
+                    August 12-14, 2025
                   </td>
                 </tr>
               </tbody>

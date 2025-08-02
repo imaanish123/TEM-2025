@@ -52,10 +52,10 @@ const HomeMain = () => {
             <div className="font-bold text-2xl md:text-4xl lg:text-5xl xl:text-6xl text-center md:text-left pt-4 mb-6">
               <span className="text-orange-400"></span>{" "}
               <span className="text-white">
-                3rd International conference of
+                4th International conference of
               </span>{" "}
-              <span className="text-white">Trauma</span>{" "}
-              <span className="text-white">and Emergency</span>{" "}
+              <span className="text-white">Emergency Trauma</span>{" "}
+              <span className="text-white">and Acute Care</span>{" "}
               <span className="text-white">Medicine </span>{" "}
               <span className="text-white">2025 </span>
               <span className="text-white text-xl md:text-2xl lg:text-3xl xl:text-4xl">
@@ -73,7 +73,7 @@ const HomeMain = () => {
                     </Link>
                     <span className="text-sm lg:text-lg text-white">
                       {" "}
-                      March 21-24, 2025
+                      August 12-14, 2025
                     </span>
                   </p>
                 </div>
@@ -87,7 +87,7 @@ const HomeMain = () => {
                     </Link>
                     <span className="text-sm lg:text-lg text-white">
                       {" "}
-                      Pattaya, Thailand
+                      Kochi, Kerala
                     </span>
                   </p>
                 </div>
@@ -128,7 +128,7 @@ const HomeMain = () => {
           <div className=" container mx-auto flex md:px-5 py-2 md:flex-row flex-col items-center">
             <div className="lg:flex-grow md:w-1/2 px-6 lg:pr-24 md:pr-16 relative flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
               <h1 className="relative title-font text-4xl md:text-6xl mb-4 font-bold border-b-4 pb-4 px-8 md:px-0 md:pr-24 border-cyan-600">
-                <span className="text-orange-400">TEM</span>2025
+                <span className="text-orange-400">ETACM</span>2025
               </h1>
               <h2 className="text-lg">
                 {/* <span>Co-Organised By</span> */}
@@ -154,38 +154,46 @@ const HomeMain = () => {
               </h2>
               <br />
               <p className="md:mb-8 leading-relaxed font-semibold text-lg text-justify">
-                Welcome to the 3rd International conference of Trauma and
-                emergency medicine 2025!
+                Welcome to the 4th International conference of Emergency Trauma
+                and Acute Care medicine 2025!
                 <br />
-                We are looking forward to welcoming you to our third conference
-                in which we will gather to share practice, knowledge, and wisdom
-                related to trauma and emergency medicine.
+                The 4th International conference on Emergency Trauma and Acute
+                Care Medicine will serve as a platform for healthcare
+                professionals, trauma surgeons, emergency physicians, and
+                researchers to discuss advancements, challanges, and innovations
+                in the critical field of acute care. As emergency and trauma
+                cases continue to rise globally due to accidents, natural
+                disasters, and violence, the demand for rapid, evidence-based
+                interventions is greater than ever.
                 <br />
-                In this conference we have a strong focus on emerging trends,
-                approaches and wisdom, alongside those with lived experience,
-                researchers, and practitioners in the areas of Trauma and
-                emergency medicine. In addition, we will also have a spotlight
-                on neurodivergence and trauma.
+                This conference brings together leading experts to share
+                clinical insights, research findings, and practical strategies
+                that can significantly improve patient outcomes. Topics include
+                trauma resuscitation protocols, surgical emergencies, intensive
+                care management, pre-hospital care, and the integration of new
+                technologies such as AI-driven diagnostics and telemedicine in
+                emergency settings.
                 <br />
-                We are excited to announce a new program structure for the
-                conference that includes a wider range of opportunities to come
-                together to share and learn from others. You will have the
-                chance to hear from international and national leaders in the
-                field of trauma treatment, participate in interactive and
-                advanced masterclasses and workshops, hear from those with lived
-                experience, practitioners, and researchers as they come together
-                to explore contemporary thinking in symposium discussions, panel
-                chats, keynote talks, presentations and have the chance to
-                network and showcase your own practice. <br />
-                The conference is a unique place for sharing best practice
-                approaches, emerging ideas, and critical considerations in the
-                field of trauma and emergency medicine
+                Interactive workshops, keynote lectures, and panel discussions
+                will address both the clinical and ethical complexities of
+                trauma care, especially in resource-limited settings. The event
+                also provides opportunities for early-career professionals to
+                present case studies and research, fostering collaboration
+                across institutions and disciplines. <br/> By promoting
+                interdisciplinary dialogue and continuous education, the
+                conference aims to strengthen emergency response systems,
+                optimize trauma care delivery, and ultimately save lives.
+                <br/> Come,
+                join the conference to underscore the urgent need for
+                preparedness, quick decision-making, and global cooperation in
+                addressing the evolving landscape of emergency and acute medical
+                care.
                 <br />
                 Organising committee,
                 <br />
-                3rd International conference of Trauma and emergency medicine
+                4th International conference of Trauma and emergency medicine
                 <br />
-                2025, Pattaya, Thailand
+                2025, Kochi, Kerala
               </p>
             </div>
 
@@ -209,15 +217,15 @@ const HomeMain = () => {
                 <span className="pr-6">Call For Papers</span>
               </h1>
               <h2 className="text-orange-600 font-bold text-xl mb-6">
-                3rd International conference of Trauma and emergency medicine
-                2025!
+                4th International conference on Emergency Trauma and Acute Care
+                Medicine
               </h2>
 
               <div className="my-8 leading-relaxed">
                 <p className="text-lg">
                   The technical sessions will have four tracks covering recent
-                  and emerging research topics in the field of Trauma and
-                  emergency medicine. Every track will have the following
+                  and emerging research topics in the field of Emergency Trauma
+                  and acute care medicines. Every track will have the following
                   events:
                 </p>
                 <ul className="pl-6 font-semibold pt-4 text-left text-lg">
