@@ -210,8 +210,9 @@ const HomeMain = () => {
         <section id="callforpaper" className="body-font">
           <div className="container mx-auto flex px-5 py-12 md:flex-row flex-col items-center">
             <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 order-last md:order-first mt-8 md:mt-0">
-              <Lottie animationData={research} loop={true} />
-            </div>
+  <img src="/25039-removebg-preview.png" alt="Emergency Medicine" />
+</div>
+
             <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
               <h1 className="title-font text-4xl md:text-[5vw] lg:text-6xl mb-4 font-bold border-b-4 pb-4 border-cyan-600">
                 <span className="pr-6">Call For Papers</span>
