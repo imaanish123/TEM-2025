@@ -188,10 +188,11 @@ const HomeMain = () => {
                 preparedness, quick decision-making, and global cooperation in
                 addressing the evolving landscape of emergency and acute medical
                 care.
-                <br />
+                  <br />
                 Organising committee,
                 <br />
-                4th International conference of Trauma and emergency medicine
+                4th International conference on Emergency Trauma and Acute Care
+                Medicine.
                 <br />
                 2025, Kochi, Kerala
               </p>
